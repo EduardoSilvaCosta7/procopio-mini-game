@@ -1,0 +1,11 @@
+AVENTURA DAS TECLAS
+
+Para jogar, extraia o ZIP e abra index.html no navegador.
+Não precisa instalar nada.
+
+Arquivos:
+index.html: estrutura e cenário do jogo.
+style.css: aparência e animações.
+game.js: desafios, teclado e regras do jogo.
+
+As fontes do Google são opcionais e precisam de internet. Sem conexão, o jogo usa as fontes do sistema.
